@@ -1,0 +1,1533 @@
+<!DOCTYPE html>
+<!--[if !IE]>
+<html class="no-js non-ie" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]>
+<html class="no-js ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]>
+<html class="no-js ie8" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]>
+<html class="no-js ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="ahrefs-site-verification" content="444ed4eb253b2e175037a391096cdabd0d7988515bc3666dafd8b616dd27dfb5">
+<meta http-equiv="origin-trial" content="ArE80JiMwkGfYVn9xFFE7vyOg6Igo4VuzygRzxm3fVLRgWIV55s6jAfJ3EvP+T0Ldx0AzQpDmgq/plzyFpx66AgAAABqeyJvcmlnaW4iOiJodHRwczovL3d3dy5zZW1hdGV4dC5jb206NDQzIiwiZmVhdHVyZSI6Ik1lYXN1cmVNZW1vcnkiLCJleHBpcnkiOjE2MDk4MzM1NDgsImlzU3ViZG9tYWluIjp0cnVlfQ==">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://sematext.com/xmlrpc.php">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://sematext.com/wp-content/themes/sematext-next/inc/images/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://sematext.com/wp-content/themes/sematext-next/inc/images/apple-touch-icon.png">
+
+    <script type="text/javascript">
+        (function(e,r,n,t,s){var a=[];e[s]=function(){a.push(arguments)};e[s].queue=a;var o=[];var i=[];var c=true;var p=void 0;if(window.PerformanceObserver&&window.PerformanceObserver.supportedEntryTypes&&(  PerformanceObserver.supportedEntryTypes.indexOf("longtask")>=0||PerformanceObserver.supportedEntryTypes.indexOf("element")>=0)){p=new PerformanceObserver(function(e){e.getEntries().forEach(function(e){  switch(e.entryType){case"element":i.push(e);break;case"longtask":o.push(e);break;default:break}})});p.observe({entryTypes:["longtask","element"]})}e[s+"lt"]={longTasks:o,timingElements:i,inPageLoad:c,observer:p};if(t){var u=r.createElement(n);u.async=1;u.src=t;var f=r.getElementsByTagName(n)[0];f.parentNode.insertBefore(u,f)}})
+        (window,document,"script","//cdn.sematext.com/rum.js","strumTest");
+
+        (function(e,r,n,t,s){var a=[];e[s]=function(){a.push(arguments)};e[s].queue=a;var o=[];var i=[];var c=true;var p=void 0;if(window.PerformanceObserver&&window.PerformanceObserver.supportedEntryTypes&&(  PerformanceObserver.supportedEntryTypes.indexOf("longtask")>=0||PerformanceObserver.supportedEntryTypes.indexOf("element")>=0)){p=new PerformanceObserver(function(e){e.getEntries().forEach(function(e){  switch(e.entryType){case"element":i.push(e);break;case"longtask":o.push(e);break;default:break}})});p.observe({entryTypes:["longtask","element"]})}e[s+"lt"]={longTasks:o,timingElements:i,inPageLoad:c,observer:p};if(t){var u=r.createElement(n);u.async=1;u.src=t;var f=r.getElementsByTagName(n)[0];f.parentNode.insertBefore(u,f)}})
+        (window,document,"script",null,"strumUS");
+
+        window.STRUM_CONTEXTS = ['strumTest', 'strumUS'];
+        var receivers = [
+            'https://rum-receiver.apps.test.sematext.com',
+            'https://rum-receiver.sematext.com'
+        ];
+        strumTest('config', {
+            token: 'a49c4cca-a44d-4c11-9401-d5c32cfd556a',
+            receiverUrl: receivers[0],
+            ignoreOrigins: receivers,
+        });
+        strumUS('config', {
+            token: '3585e63f-9c1c-459c-a207-709923d61f53',
+            receiverUrl: receivers[1],
+            ignoreOrigins: receivers,
+        });
+    </script>
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.0.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Best MySQL Monitoring Tools &amp; Software [2020 Reviews] - Sematext</title>
+	<meta name="description" content="Read detailed comparisons of the best MySQL monitors to help you manage performance for your database and server queries, connections, buffers &amp; more!" />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://sematext.com/blog/mysql-monitoring-tools/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Best MySQL Monitoring Tools &amp; Software [2020 Reviews] - Sematext" />
+	<meta property="og:description" content="Read detailed comparisons of the best MySQL monitors to help you manage performance for your database and server queries, connections, buffers &amp; more!" />
+	<meta property="og:url" content="https://sematext.com/blog/mysql-monitoring-tools/" />
+	<meta property="og:site_name" content="Sematext" />
+	<meta property="article:publisher" content="https://www.facebook.com/Sematext/" />
+	<meta property="article:published_time" content="2020-11-20T12:42:02+00:00" />
+	<meta property="article:modified_time" content="2020-11-23T10:56:15+00:00" />
+	<meta property="og:image" content="https://sematext.com/wp-content/uploads/2020/11/Mysql-monitoring-tools.jpg" />
+	<meta property="og:image:width" content="1493" />
+	<meta property="og:image:height" content="820" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@sematext" />
+	<meta name="twitter:site" content="@sematext" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<!-- Jetpack Site Verification Tags -->
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//rsms.me' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sematext &raquo; Feed" href="https://sematext.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sematext &raquo; Comments Feed" href="https://sematext.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sematext &raquo; The Best MySQL Monitoring Tools &#038; Software of 2020 Comments Feed" href="https://sematext.com/blog/mysql-monitoring-tools/feed/" />
+<link rel='stylesheet' id='selection-sharer-css'  href='https://sematext.com/wp-content/plugins/selection-sharer/css/selection-sharer.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://sematext.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='https://sematext.com/wp-content/plugins/responsive-lightbox/assets/swipebox/swipebox.min.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfront-notification-bar-css'  href='https://sematext.com/wp-content/plugins/wpfront-notification-bar/css/wpfront-notification-bar.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='inter-ui-font-css'  href='https://rsms.me/inter/inter-ui.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-bootstrap-css'  href='https://sematext.com/wp-content/themes/sparkling/inc/css/bootstrap.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-icons-css'  href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://sematext.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.11' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://sematext.com/wp-content/themes/sparkling/style.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://sematext.com/wp-content/themes/sematext-next/style.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gamma-common-style-css'  href='https://sematext.com/wp-content/themes/sematext-next/inc/css/gamma-common.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://sematext.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://sematext.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sematext.com/wp-content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js?ver=20191011'></script>
+<script type='text/javascript' src='https://sematext.com/wp-content/plugins/responsive-lightbox/assets/swipebox/jquery.swipebox.min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='https://sematext.com/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=5.4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0","woocommerce_gallery":"0","ajaxurl":"https:\/\/sematext.com\/wp-admin\/admin-ajax.php","nonce":"606612e194"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sematext.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.2.2'></script>
+<script type='text/javascript' src='https://sematext.com/wp-content/plugins/wpfront-notification-bar/jquery-plugins/jquery.c.js?ver=1.4.0'></script>
+<script type='text/javascript' src='https://sematext.com/wp-content/plugins/wpfront-notification-bar/js/wpfront-notification-bar.js?ver=1.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/sematext.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":"51308","token":"629df9b4b5","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sematext.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp-5.0.0.min.js?ver=5.1.0'></script>
+<script type='text/javascript' src='https://sematext.com/wp-content/themes/sematext-next/inc/js/intersection-observer.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://sematext.com/wp-content/themes/sparkling/inc/js/functions.min.js?ver=5.4.4'></script>
+<link rel='https://api.w.org/' href='https://sematext.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sematext.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sematext.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.4" />
+<link rel='shortlink' href='https://wp.me/p7iMwk-dly' />
+<link rel="alternate" type="application/json+oembed" href="https://sematext.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsematext.com%2Fblog%2Fmysql-monitoring-tools%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sematext.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsematext.com%2Fblog%2Fmysql-monitoring-tools%2F&#038;format=xml" />
+       
+
+<!-- This site is optimized with the Schema plugin v1.7.8.1 - https://schema.press -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"TechArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/sematext.com\/blog\/mysql-monitoring-tools\/"},"url":"https:\/\/sematext.com\/blog\/mysql-monitoring-tools\/","headline":"The Best MySQL Monitoring Tools & Software of...","datePublished":"2020-11-20T07:42:02-05:00","dateModified":"2020-11-23T05:56:15-05:00","publisher":{"@type":"Organization","@id":"https:\/\/sematext.com\/#organization","name":"Sematext","logo":{"@type":"ImageObject","url":"https:\/\/sematext.com\/wp-content\/uploads\/2018\/07\/sematext-logo.jpg","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/sematext.com\/wp-content\/uploads\/2020\/11\/Mysql-monitoring-tools.jpg","width":1493,"height":820},"articleSection":"Monitoring","description":"Evolving MySQL operations requires understanding how MySQL works. A good monitoring tool alerts on issues before they impact end users and helps reduce the MTTR of incidents when they do occur. But choosing a database monitoring solution can be tough due to the vast number of solutions available, each","author":{"@type":"Person","name":"Danny Mican","url":"https:\/\/sematext.com\/blog\/author\/danny-mican\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/40fb483ab5a3cda2f1e71e3607a3795f?s=96&d=mm&r=g","height":96,"width":96}}}</script>
+
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="shortcut icon" type="image/png" href="https://sematext.com/wp-content/themes/sematext-next/inc/images/favicon.png" />
+
+<!-- This site is optimized with the Schema plugin v1.7.8.1 - https://schema.press -->
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://sematext.com",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://sematext.com/blog/",
+                "name": "Sematext Blog"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://sematext.com/blog/mysql-monitoring-tools/",
+                "name": "The Best MySQL Monitoring Tools &#038; Software of 2020",
+                "image": "https://sematext.com/wp-content/uploads/2020/11/Mysql-monitoring-tools.jpg"
+            }
+        }
+    ]
+}</script>
+
+			<style type="text/css" id="wp-custom-css">
+				.gdpr.gdpr-privacy-bar .gdpr-wrapper, .gdpr.gdpr-reconsent-bar .gdpr-wrapper {
+    max-width: 70%;
+    margin: 0 15%;
+}
+.gdpr.gdpr-privacy-bar .gdpr-wrapper .gdpr-content p, .gdpr.gdpr-reconsent-bar .gdpr-wrapper .gdpr-content p {
+    font-size: 12px;
+}
+.gdpr.gdpr-privacy-bar .gdpr-agreement, .gdpr.gdpr-reconsent-bar .gdpr-agreement {
+    background: #022638;
+}
+.gdpr.gdpr-privacy-bar .gdpr-preferences, .gdpr.gdpr-reconsent-bar .gdpr-preferences {
+    font-size: 12px;
+}
+.gdpr.gdpr-privacy-bar, .gdpr.gdpr-reconsent-bar {
+    background: rgb(20, 54, 71);
+}
+.gdpr.gdpr-privacy-bar .gdpr-wrapper, .gdpr.gdpr-reconsent-bar .gdpr-wrapper {
+    padding: 20px 10px;
+}
+
+#menu-item-7208 a:after {
+ font-family: fontawesome;
+ content: '\f0f2';
+ padding-left: 6px;
+}			</style>
+		
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K47WKMR');
+    </script>
+    <!-- End Google Tag Manager -->
+
+<!-- Google Structured Data - Social Profile  https://developers.google.com/search/docs/data-types/social-profile-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Sematext Group",
+  "url": "https://sematext.com",
+  "sameAs": [
+    "https://twitter.com/sematext",
+    "https://www.facebook.com/Sematext/",
+    "https://github.com/sematext",
+    "https://plus.google.com/+SematextGroup",
+    "https://www.linkedin.com/company/294493/"
+  ]
+}
+</script>
+
+    <!-- Hotjar Tracking Code for sematext.com -->
+    <script>
+        if ( navigator.userAgent.indexOf('HeadlessChrome') < 0 ) {
+            (function(h,o,t,j,a,r){
+                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                h._hjSettings={hjid:1559295,hjsv:6};
+                a=o.getElementsByTagName('head')[0];
+                r=o.createElement('script');r.async=1;
+                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+        }
+    </script>
+
+</head>
+<body class="post-template-default single single-post postid-51308 single-format-standard group-blog">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K47WKMR"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+<a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+<div id="page" class="hfeed site">
+
+    <header id="masthead" class="site-header" role="banner">
+
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+			<div class="container">
+				<div class="row">
+					<div class="site-navigation-inner">
+						<div class="navbar-header">
+							<button type="button" class="btn navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+                            <div id="logo">
+								<a href="https://sematext.com/">
+                                    <img src="https://sematext.com/wp-content/themes/sematext-next/inc/images/sematext-logo.svg" alt="Sematext"/>
+                                </a>
+							</div>
+						</div>
+						<div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-main-navigation" class="nav navbar-nav"><li id="menu-item-7185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7185 dropdown"><button title="Products" href="#" data-toggle="dropdown" class="dropdown-toggle">Products <span class="caret"></span></button>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-39760" class="menu-item menu-item-type-yawp_wim menu-item-object-yawp_wim menu-item-39760">				<div class="yawp_wim_wrap">
+					<div class="widget-area">
+						<div id="text-17" class="yawp_wim_widget widget_text">			<div class="textwidget"><div class="mm-v6">
+<div class="mm-v6-products">
+<ul class="mm-ul-products" role="menu">
+<li id="mm-cloud"><a title="Sematext Cloud" href="/cloud/"><strong>Sematext Cloud</strong><br />
+All-in-one monitoring solution: Metrics, Logs, User Analysis &amp; Tracing, finally together.</a></li>
+<li id="mm-enterprise"><a title="Sematext Enterprise" href="/enterprise/"><strong>Sematext Enterprise</strong><br />
+Run Sematext Cloud on your infrastructure</a></li>
+</ul>
+<ul class="mm-ul-aux" role="menu">
+<li id="mm-updates"><a title="Product Updates" href="/product-updates/">Product Updates</a></li>
+<li id="mm-docs"><a title="Sematext Docs" href="https://sematext.com/docs" target="_blank" rel="noopener noreferrer">Documentation</a></li>
+<li id="mm-pricing"><a title="Plans and Pricing" href="/pricing/">Plans &amp; Pricing</a></li>
+</ul>
+</div>
+<div class="mm-v6-solutions">
+<ul class="mm-ul-prods" role="menu">
+<li id="mm-logs"><a title="Logsene" href="/logsene/"><strong>Logs</strong><br />
+Hassle-free Log Management and analytics</a></li>
+<li id="mm-spm"><a title="Infrastructure Monitoring" href="/spm/"><strong>Infrastructure Monitoring</strong><br />
+Map and monitor your whole infrastructure in real-time</a></li>
+<li id="mm-experience"><a title="Real User Monitoring" href="/experience/"><strong>Experience</strong><br />
+Improve your customers&#8217; digital experience with Real User Monitoring</a></li>
+<li id="mm-synthetic"><a title="Synthetic Monitoring" href="/synthetic-monitoring/"><strong>Synthetic Monitoring</strong><br />
+Monitor performance and availability of your site and APIs</a></li>
+<li id="mm-tracing"><a title="APM / Tracing" href="/tracing/"><strong>Tracing</strong><br />
+Optimize end-to-end application performance</a></li>
+</ul>
+</div>
+<div class="mm-v6-capabilities">
+<h3>Main Capabilities</h3>
+<ul class="mm-ul-list" role="menu">
+<li><a title="Integrations" href="/integrations/">Integrations</a></li>
+<li><a title="APM" href="/apm/">Application Performance Monitoring</a></li>
+<li><a title="Server Monitoring" href="/server-monitoring/">Server Monitoring</a></li>
+<li><a title="Container Monitoring" href="/docker/">Container Monitoring</a></li>
+<li><a title="Process Monitoring" href="/process-monitoring/">Process Monitoring</a></li>
+<li><a title="Database Monitoring" href="/database-monitoring/">Database Monitoring</a></li>
+<li><a title="Network Monitoring" href="/network-monitoring/">Network Monitoring</a></li>
+<li><a title="Java Monitoring" href="/java-monitoring/">JVM Monitoring</a></li>
+<li><a title="Metrics and Logs" href="/metrics-and-logs/">Metrics and Logs</a></li>
+<li><a title="Inventory Monitoring" href="/inventory-monitoring/">Inventory Monitoring</a></li>
+<li><a title="Alerts" href="/alerts/">Alerts</a></li>
+<li><a title="Events" href="/events/">Events</a></li>
+<li><a title="API" href="/api/">API</a></li>
+</ul>
+</div>
+</div>
+</div>
+		</div>					</div>
+				</div>
+				</li>
+	<li id="menu-item-7189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7189"><a title="SPM &#8211; Infrastructure Pefrormance Monitoring" href="https://sematext.com/spm/"><span class="glyphicon SPM &#8211; Infrastructure Pefrormance Monitoring"></span>&nbsp;Infrastructure Monitoring</a></li>
+	<li id="menu-item-7187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7187"><a title="Logsene Log Management" href="https://sematext.com/logsene/">Logsene Log Management</a></li>
+	<li id="menu-item-9168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9168"><a title="Docker Agent" href="https://sematext.com/docker/">Docker Agent</a></li>
+	<li id="menu-item-36105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36105"><a title="Kubernetes Agent" href="https://sematext.com/kubernetes/">Kubernetes Agent</a></li>
+	<li id="menu-item-39771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39771"><a title="Sematext Cloud" href="https://sematext.com/cloud/">Sematext Cloud</a></li>
+	<li id="menu-item-9350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9350"><a title="Logagent" href="https://sematext.com/logagent/">Logagent</a></li>
+</ul>
+</li>
+<li id="menu-item-48437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48437"><a title="Pricing" href="https://sematext.com/pricing/">Pricing</a></li>
+<li id="menu-item-41576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41576 dropdown"><button title="Services" href="#" data-toggle="dropdown" class="dropdown-toggle">Services <span class="caret"></span></button>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-7190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7190 dropdown"><a title="Consulting" href="#">Consulting</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-7191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7191"><a title="Consulting Overview" href="https://sematext.com/consulting/">Consulting Overview</a></li>
+		<li id="menu-item-7194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7194"><a title="Solr Consulting" href="https://sematext.com/consulting/solr/">Solr Consulting</a></li>
+		<li id="menu-item-7192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7192"><a title="Elasticsearch Consulting" href="https://sematext.com/consulting/elasticsearch/">Elasticsearch Consulting</a></li>
+		<li id="menu-item-7193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7193"><a title="Logging Consulting" href="https://sematext.com/consulting/logging/">Logging Consulting</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7196 dropdown"><a title="Support" href="#">Support</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-7197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7197"><a title="Support Overview" href="https://sematext.com/support/">Support Overview</a></li>
+		<li id="menu-item-7199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7199"><a title="Solr Support" href="https://sematext.com/support/solr-production-support/">Solr Support</a></li>
+		<li id="menu-item-7198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7198"><a title="Elasticsearch Support" href="https://sematext.com/support/elasticsearch-production-support/">Elasticsearch Support</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7200 dropdown"><a title="Training" href="#">Training</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-7201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7201"><a title="Training Overview" href="https://sematext.com/training/">Training Overview</a></li>
+		<li id="menu-item-7203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7203"><a title="Solr Training" href="https://sematext.com/training/solr/">Solr Training</a></li>
+		<li id="menu-item-7202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7202"><a title="Elasticsearch Training" href="https://sematext.com/training/elasticsearch/">Elasticsearch Training</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7204 dropdown"><button title="Resources" href="https://sematext.com/resources/" data-toggle="dropdown" class="dropdown-toggle">Resources <span class="caret"></span></button>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-45056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45056 dropdown"><a title="How to" href="#">How to</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-45059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45059"><a title="eBooks" href="https://sematext.com/resources/ebooks/">eBooks</a></li>
+		<li id="menu-item-45060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45060"><a title="Cheat Sheets" href="https://sematext.com/resources/cheat-sheets/">Cheat Sheets</a></li>
+		<li id="menu-item-45061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45061"><a title="Product Videos" href="https://sematext.com/resources/product-videos/">Product Videos</a></li>
+		<li id="menu-item-45062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45062"><a title="Slide Decks" href="https://sematext.com/resources/slide-decks/">Slide Decks</a></li>
+		<li id="menu-item-45063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45063"><a title="Publications" href="https://sematext.com/resources/publications/">Publications</a></li>
+	</ul>
+</li>
+	<li id="menu-item-46486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46486 dropdown"><a title="Docs" href="https://sematext.com/docs/">Docs</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-46487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46487"><a title="Monitoring" href="https://sematext.com/docs/monitoring/">Monitoring</a></li>
+		<li id="menu-item-46488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46488"><a title="Logs" href="https://sematext.com/docs/logs/">Logs</a></li>
+		<li id="menu-item-48070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48070"><a title="Experience" href="https://sematext.com/docs/experience/">Experience</a></li>
+		<li id="menu-item-50380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50380"><a title="Synthetics" href="https://sematext.com/docs/synthetics/">Synthetics</a></li>
+		<li id="menu-item-46489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46489"><a title="Tracing" href="https://sematext.com/docs/tracing/">Tracing</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7195" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-7195 dropdown"><a title="Blog" href="https://sematext.com/blog/">Blog</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-49337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49337"><a title="Real User Monitoring" href="https://sematext.com/category/monitoring/real-user-monitoring/">Real User Monitoring</a></li>
+		<li id="menu-item-49338" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49338"><a title="Logging" href="https://sematext.com/category/logging/">Logging</a></li>
+		<li id="menu-item-49339" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-49339"><a title="Monitoring" href="https://sematext.com/category/monitoring/">Monitoring</a></li>
+		<li id="menu-item-50102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-50102"><a title="Synthetic Monitoring" href="https://sematext.com/category/synthetic-monitoring/">Synthetic Monitoring</a></li>
+		<li id="menu-item-49340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49340"><a title="Training" href="https://sematext.com/category/training/">Training</a></li>
+		<li id="menu-item-49341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49341"><a title="Search" href="https://sematext.com/category/search/">Search</a></li>
+		<li id="menu-item-49342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49342"><a title="See all posts" href="https://sematext.com/blog/?grid=1">See all posts</a></li>
+	</ul>
+</li>
+	<li id="menu-item-45057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45057 dropdown"><a title="Why Sematext" href="#">Why Sematext</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-45064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45064"><a title="Case Studies" href="https://sematext.com/resources/case-studies/">Case Studies</a></li>
+		<li id="menu-item-45071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45071"><a title="Industry Comparisons" href="https://sematext.com/resources/industry-comparisons/">Industry Comparisons</a></li>
+	</ul>
+</li>
+	<li id="menu-item-45058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45058 dropdown"><a title="Open Source Agents" href="#">Open Source Agents</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-45065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45065"><a title="Docker Agents" href="https://sematext.com/docker/">Docker Agents</a></li>
+		<li id="menu-item-45066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45066"><a title="Kubernetes Agents" href="https://sematext.com/kubernetes/">Kubernetes Agents</a></li>
+		<li id="menu-item-45067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45067"><a title="Logagent" href="https://sematext.com/logagent/">Logagent</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47266 dropdown"><a title="Guides" href="https://sematext.com/guides/">Guides</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-47265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47265"><a title="Log Management Guide" href="https://sematext.com/guides/log-management/">Log Management Guide</a></li>
+		<li id="menu-item-47783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47783"><a title="Elasticsearch Guide" href="https://sematext.com/guides/elasticsearch/">Elasticsearch Guide</a></li>
+		<li id="menu-item-47784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47784"><a title="Docker Logging Guide" href="https://sematext.com/guides/docker-logs/">Docker Logging Guide</a></li>
+		<li id="menu-item-47918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47918"><a title="Solr Guide" href="https://sematext.com/guides/solr/">Solr Guide</a></li>
+		<li id="menu-item-47940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47940"><a title="Real User Monitoring" href="https://sematext.com/guides/what-is-real-user-monitoring/">Real User Monitoring</a></li>
+		<li id="menu-item-48212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48212"><a title="Java Monitoring Guide" href="https://sematext.com/guides/java-monitoring/">Java Monitoring Guide</a></li>
+		<li id="menu-item-48523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48523"><a title="ELK Stack Guide" href="https://sematext.com/guides/elk-stack/">ELK Stack Guide</a></li>
+		<li id="menu-item-48908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48908"><a title="Application Performance Monitoring Guide" href="https://sematext.com/guides/application-performance-monitoring/">Application Performance Monitoring Guide</a></li>
+		<li id="menu-item-49271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49271"><a title="Kubernetes Logging Guide" href="https://sematext.com/guides/kubernetes-logging/">Kubernetes Logging Guide</a></li>
+		<li id="menu-item-49388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49388"><a title="Kubernetes Monitoring Guide" href="https://sematext.com/guides/kubernetes-monitoring/">Kubernetes Monitoring Guide</a></li>
+		<li id="menu-item-49770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49770"><a title="Synthetic Monitoring Guide" href="https://sematext.com/guides/synthetic-monitoring/">Synthetic Monitoring Guide</a></li>
+	</ul>
+</li>
+	<li id="menu-item-45484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45484 dropdown"><a title="Most Popular" href="#">Most Popular</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-45485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45485"><a title="Elasticsearch DevOps Cheat Sheet" href="https://sematext.com/elasticsearch-devops-cheat-sheet/">Elasticsearch DevOps Cheat Sheet</a></li>
+		<li id="menu-item-45486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45486"><a title="Elasticsearch Developer Cheat Sheet" href="https://sematext.com/resources/elasticsearch-developer-cheat-sheet/">Elasticsearch Developer Cheat Sheet</a></li>
+		<li id="menu-item-45489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45489"><a title="Solr Cheat Sheet" href="https://sematext.com/solr-cheat-sheet/">Solr Cheat Sheet</a></li>
+		<li id="menu-item-45507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45507"><a title="Kubernetes Cheat Sheet" href="https://sematext.com/kubernetes-cheat-sheet/">Kubernetes Cheat Sheet</a></li>
+		<li id="menu-item-45491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45491"><a title="Docker Commands Cheat Sheet" href="https://sematext.com/docker-commands-cheat-sheet/">Docker Commands Cheat Sheet</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7205 dropdown"><button title="About" href="#" data-toggle="dropdown" class="dropdown-toggle">About <span class="caret"></span></button>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-7206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7206"><a title="Company" href="https://sematext.com/about/">Company</a></li>
+	<li id="menu-item-7210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7210"><a title="Customers" href="https://sematext.com/customers/">Customers</a></li>
+	<li id="menu-item-43967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43967"><a title="Case Studies" href="https://sematext.com/resources/case-studies/">Case Studies</a></li>
+	<li id="menu-item-7213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7213"><a title="Partners" href="https://sematext.com/partners/">Partners</a></li>
+	<li id="menu-item-43471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43471"><a title="Testimonials" href="https://sematext.com/clients/#testimonials">Testimonials</a></li>
+	<li id="menu-item-7208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7208"><a title="Jobs" href="https://sematext.com/jobs/">Jobs</a></li>
+	<li id="menu-item-7212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7212"><a title="Engineering" href="https://sematext.com/engineering/">Engineering</a></li>
+	<li id="menu-item-7207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7207"><a title="Contact" href="https://sematext.com/contact/">Contact</a></li>
+	<li id="menu-item-49967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49967"><a title="Status" href="https://status.sematext.com/">Status</a></li>
+</ul>
+</li>
+<li id="menu-item-46020" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46020"><a title="See Live Demo" href="https://apps.sematext.com/demo">See Live Demo</a></li>
+<li id="menu-item-7326" class="btn btn-warning menu-item menu-item-type-custom menu-item-object-custom menu-item-7326"><a title="Start Free Trial" href="https://apps.sematext.com/ui/registration">Start Free Trial</a></li>
+<li id="menu-item-7327" class="btn btn-primary btn-outline menu-item menu-item-type-custom menu-item-object-custom menu-item-7327"><a title="Login" href="https://apps.sematext.com/ui/login/">Login</a></li>
+</ul></div>					</div>
+				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+
+	</header><!-- #masthead -->
+
+
+
+	<div id="content" class="site-content">
+
+		<div class="top-section">
+								</div>
+
+		<div class="container-fluid main-content-area">
+<style media="screen">
+.hljs {
+    display: block;
+    overflow-x: auto;
+    background: #011a27;
+    line-height: 1.65;
+    white-space: inherit;
+}
+.hljs, .hljs-subst { color: #ccc; }
+.hljs-comment {
+    color: #777;
+    font-style: italic;
+}
+.hljs-keyword, .hljs-attribute, .hljs-selector-tag, .hljs-meta-keyword, .hljs-doctag, .hljs-name {
+    color: #fff;
+    font-weight: bold
+}
+.hljs-type, .hljs-string, .hljs-number, .hljs-selector-id, .hljs-selector-class, .hljs-quote, .hljs-template-tag, .hljs-deletion {
+    color: #09a;
+    font-weight: bold;
+}
+.hljs-title, .hljs-section {
+    color: #f70;
+    font-weight: bold
+}
+.hljs-regexp, .hljs-symbol, .hljs-variable, .hljs-template-variable, .hljs-link, .hljs-selector-attr, .hljs-selector-pseudo { color: #cc3 }
+.hljs-literal { color: #2586e4 }
+.hljs-built_in, .hljs-bullet, .hljs-code, .hljs-addition { color: #ff842c }
+.hljs-meta { color: #1f7199 }
+.hljs-meta-string { color: #4d99bf }
+.hljs-emphasis { font-style: italic }
+.hljs-strong { font-weight: bold }
+
+a#continue-conversation-twitter { line-height: 1.8 }
+a#continue-conversation-twitter:before {
+    content: '\f202';
+    font: normal 24px/1 'social-logos' !important;
+    display: inline-block;
+    padding: 5px 0 0 0;
+    margin: 0 8px 0 0;
+    position: relative;
+    top: 2px;
+}
+a#continue-conversation-twitter:active,
+a#continue-conversation-twitter:focus {
+    color: #fff;
+}
+
+#scroll-status-bar {
+    position: fixed;
+    height: 3px;
+    width: 100%;
+    z-index: 1000;
+    overflow: hidden;
+}
+#scroll-status-percent {
+    height: 100%;
+    width: 0%;
+    background: rgb(30, 141, 232);
+    box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, .1);
+    transition: width .25s ease-in-out;
+}
+</style>
+
+
+<div id="scroll-status-bar"><div id="scroll-status-percent"></div></div>
+
+
+<div class="blog-post-hero container-fluid">
+    <div class="blog-post-hero-bg">
+        <div class="blog-post-hero-bg-img" style="background-image: url(https://sematext.com/wp-content/uploads/2020/11/Mysql-monitoring-tools.jpg)"></div>
+    </div>
+    <div class="container"><img src="https://sematext.com/wp-content/uploads/2020/11/Mysql-monitoring-tools.jpg" id="the-featured-image" /></div>
+</div>
+
+<div class="container-fluid container-single-blog-post">
+<div class="container">
+
+
+        <article class="single-article-blog-post" id="post-51308">
+            <main>
+                <!-- Header -->
+                <header>
+                    <div class="blog-post-categories">
+                                                 <a href="https://sematext.com/category/monitoring/" rel="category tag">Monitoring</a>                    </div>
+
+                    <div class="blog-post-title">
+                        <h1 elementtiming="post-header">The Best MySQL Monitoring Tools &#038; Software of 2020</h1>
+                        <p><img src="https://secure.gravatar.com/avatar/40fb483ab5a3cda2f1e71e3607a3795f?s=32&d=mm&r=g" srcset="https://secure.gravatar.com/avatar/40fb483ab5a3cda2f1e71e3607a3795f?s=64&d=mm&r=g" 2x width="32" height="32" alt="Danny Mican" /> <span class="author vcard"><a class="url fn n" href="https://sematext.com/blog/author/danny-mican/">Danny Mican</a></span> on <span class="posted-on"><a href="https://sematext.com/blog/mysql-monitoring-tools/" rel="bookmark"><time class="entry-date published" datetime="2020-11-20T07:42:02-05:00">November 20, 2020</time><time class="updated" datetime="2020-11-23T05:56:15-05:00">November 23, 2020</time></a></span></p>
+                    </div>
+                </header>
+
+                <nav id="toc-nav"></nav>
+
+                <section>
+                    <div id="the-content">
+                        <p>Evolving MySQL operations requires understanding how MySQL works. A good monitoring tool alerts on issues before they impact end users and helps reduce the MTTR of incidents when they do occur. But choosing a database monitoring solution can be tough due to the vast number of solutions available, each with their own pros and cons.</p>
+<p>In this blog post, I&#8217;ll review some of the <strong>best MySQL monitoring tools available that can help measure and improve database performance</strong>.</p>
+<h2>Why Monitor MySQL Database Performance</h2>
+<p>If your customer base is growing or you&#8217;re experiencing frequent performance issues with your MySQL deployment, you need a <a href="https://sematext.com/database-monitoring/">database monitoring tool</a>.</p>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-3.png" /></p>
+<p style="text-align: center;"><em>Figure 1: MySQL Monitoring in Sematext</em></p>
+<p>It&#8217;s an inexpensive solution that delivers companies great ROI. Not only do metrics allow you to determine whether your MySQL database is healthy, they also help prevent performance issues.</p>
+<p>MySQL monitoring tools achieve this through low-level system metrics that offer an overview of your deployment. A good monitoring tool will also send <a href="https://sematext.com/alerts/">alerts</a> when metrics deviate from a steady state so that you can quickly intervene and avoid potential outages or other customer-impacting issues.</p>
+<p>This is particularly important with MySQL. Since databases are often the center of most systems, MySQL frequently ends up being a bottleneck for other services. For example, your services may be leaking database connections. In such cases, MySQL charts help pinpoint the cause by revealing when the issue appeared.</p>
+<p>On many occasions, the service my team and I were working on began throwing 5XX response codes. When monitoring is available though, it&#8217;s easy to determine if the issue originates in the database. If the database was unhealthy, my team knew that was where we needed to focus our efforts. If, on the other hand, the database was healthy, we knew to look elsewhere. No matter the cause, having monitoring tools at our disposal significantly cuts down on <a href="https://sematext.com/blog/log-analysis/#toc-reduce-problem-diagnosis-and-resolution-time-2">MTTR</a> and getting the system back to a healthy state.</p>
+<p>Now that we&#8217;ve covered why monitoring MySQL performance is so important, let&#8217;s explore how it actually works.</p>
+<h2>How Monitoring Works</h2>
+<p>MySQL monitoring tools make regular requests to retrieve MySQL performance statistics. <a href="https://github.com/sematext/sematext-agent-integrations/tree/master/mysql">Each response contains information about the MySQL system</a>. This information is then translated into metrics and submitted to a monitoring solution, which allows you to visualize and set up alerts whenever they deviate from their normal state.</p>
+<p>Such monitoring solutions gather metrics from the <a href="https://dev.mysql.com/doc/refman/8.0/en/performance-schema.html">MySQL Performance Schema</a> which contains metadata about a MySQL instance—everything from queries and errors to low-level storage metrics. Since the performance schema is the source of metrics for most tools, the majority of these tools offer very similar visibility. It&#8217;s the features, experience, and UI that differentiate them from one another.</p>
+<p>You should never overlook the UX and alerting capabilities of your tool. It doesn&#8217;t matter how featureful the tool is; if the user experience is painful, adoption will be an uphill battle. I&#8217;ve worked with at least six different figure-monitoring tools in the past that had the potential to enable incredible visibility. But the UX was so bad, I ended up abandoning every single one of them.</p>
+<p>It&#8217;s also important to keep in mind that any monitoring tool you use will require you to <a href="https://apps.sematext.com/ui/howto/MySQL/overview">create a MySQL user</a> with sufficient permissions to query the system stats. After a user has been set up, most solutions will require an agent to be configured with the credentials.</p>
+<p>Next, let&#8217;s take a look at MySQL monitoring capabilities.</p>
+<h2>MySQL Monitoring Capabilities</h2>
+<p>Monitoring your MySQL database allows you to build a picture of system performance. The following categories of statistics are all essential for determining whether your MySQL is healthy:</p>
+<ul>
+<li><strong>Errors: </strong>Rollbacks and aborted connections.<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-2.png" />
+<p style="text-align: center;"><em>Figure 2: Sematext MySQL monitoring dashboard</em></p>
+</li>
+<li><strong>Latency: </strong>The duration of queries and operations. How long do queries take on average? Are queries getting slower?</li>
+<li><strong>Sources of latency &amp; slow queries: </strong>Table scans/non-indexed lookups.<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-4.png" />
+<p style="text-align: center;"><em>Figure 3: MySQL monitoring in Sematext</em></p>
+</li>
+<li><strong>Resource saturation: </strong>Max connections, disk full, replica lag, I/O time, buffer capacity, and cache exhaustion.</li>
+<li><strong><a href="https://blogs.oracle.com/jsmyth/what-causes-replication-lag" rel="nofollow">Replication lag</a></strong>: Occurs when follower nodes are unable to keep up with the leaders&#8217; state.</li>
+<li><strong>Max connections: </strong>Take action when <a href="https://dev.mysql.com/doc/refman/8.0/en/too-many-connections.html#:~:text%3DThe%2520permitted%2520number%2520of%2520connections,permits%2520max_connections%2520%252B%25201%2520client%2520connections.">MySQL connection exhaustion</a> is detected.<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-10.png" />
+<p style="text-align: center;"><em>Figure 4: MySQL Monitoring in Sematext</em></p>
+</li>
+<li><strong>Disk health (swapping): </strong>Monitored at the system level. Helps correlate MySQL system metrics to the underlying system resources.</li>
+</ul>
+<h2>Database Capacity Planning</h2>
+<p>You can use MySQL metrics to inform optimal database sizing. Capacity planning requires you to choose how much memory, CPU, and disk to provide MySQL. Choosing too small a size increases your chances of overloading MySQL and negatively impacting your end users; choose too large a size, and you&#8217;ll end up forking out money for an underutilized instance.</p>
+<p>Sizing is therefore a spectrum between:</p>
+<ul>
+<li><strong>Underutilization: </strong>Paying for resources that you&#8217;re not using.</li>
+<li><strong>Overutilization: </strong>MySQL is constantly saturated, affecting end users.</li>
+</ul>
+<p>When working on systems, if I see a database deployment that&#8217;s overprovisioned, with real data at my disposal, it&#8217;s easy to make the case to reduce the instance size and save my company money as a result. <a href="https://sematext.com/database-monitoring/">Database monitoring</a> thus democratizes data and enables your engineers to make informed decisions.</p>
+<h2>Monitoring During Incidents</h2>
+<p>You&#8217;ll inevitably have issues that will affect your MySQL database. During an incident, monitoring allows you to learn what has deviated from the previous stable state in order to ensure quick resolution. This, of course, is essential for mitigating the damage and customer impact.</p>
+<p>Google&#8217;s <a href="https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/#:~:text%3DThe%2520four%2520golden%2520signals%2520of,system%252C%2520focus%2520on%2520these%2520four.%26text%3DThe%2520time%2520it%2520takes%2520to%2520service%2520a%2520request.">Four Golden Signals</a> monitoring methodology includes:</p>
+<ul>
+<li><strong>Throughput</strong>: How much work is a system doing?</li>
+<li><strong>Results</strong>: What&#8217;s the result of the work (error vs. success)?</li>
+<li><strong>Latency</strong>: How long is the work taking?</li>
+<li><strong>Saturation</strong>: Does the system have enough capacity to service the workload?</li>
+</ul>
+<p>During an incident, you need to be able to answer these four questions. Each of the MySQL monitoring tools covered below provides the metrics necessary for incident responders to answer them. Lacking metrics during an incident is like flying blind. That&#8217;s why the very first thing I do when working with new systems is introduce monitoring.</p>
+<h2>Top 6 Tools to Monitor MySQL Databases</h2>
+<p>Now that you know how monitoring works and what metrics to track, the next step is figuring out which solution is right for you. To help you decide, <strong>I tested and compared the most popular MySQL monitoring tools</strong>. Below are my top-ranked tools:</p>
+<hr />
+<h3>1. Sematext MySQL Monitoring</h3>
+<p>MySQL monitoring is one of 100+ <a href="https://sematext.com/integrations/">Sematext monitoring integrations</a>. As such, you can use Sematext not only for MySQL performance metrics, but also MySQL logs, and any other infrastructure monitoring. In addition to out-of-the-box MySQL performance dashboards, collecting any MySQL metrics that are not <a href="https://sematext.com/docs/integration/mysql/">included by default</a> is easy. You simply add it to these <a href="https://github.com/sematext/sematext-agent-integrations/tree/master/mysql">open-source agent YAML files</a> and you&#8217;re all set. The <a href="https://github.com/sematext/sematext-agent-java">monitoring agent source code</a> is open source, too.</p>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-8.png" /></p>
+<p style="text-align: center;"><em>Figure 5: Sematext MySQL Monitoring tool (Source: sematext.com)</em></p>
+<h4>Monitoring Capabilities</h4>
+<ul>
+<li><a href="https://sematext.com/docs/integration/mysql/#metrics">Nearly 200 MySQL performance metrics</a> out of the box along with a number of system metrics.</li>
+</ul>
+<h4>Pros</h4>
+<ul>
+<li>Easy to set up.</li>
+<li>Available as both SaaS (nothing to manage) or an on-premises solution.</li>
+<li>Part of a <a href="https://sematext.com/cloud/">full-stack monitoring platform</a>, so easy to correlate MySQL performance with <a href="https://sematext.com/spm/">metrics</a>, <a href="https://sematext.com/events/">events</a>, and <a href="https://sematext.com/logsene/">logs</a> from other parts of the infrastructure and application stack.</li>
+<li>Numerous out-of-the-box dashboards and charts, as well as alert rules.</li>
+</ul>
+<h4>Cons</h4>
+<ul>
+<li>Only the agent is open sourced.</li>
+<li>No annual pricing as of this writing, though <a href="https://sematext.com/solution-bundling/">bundling discounts</a> are available.</li>
+</ul>
+<h4>Pricing</h4>
+<p>Priced at $25 a month per MySQL server/instance.</p>
+<hr />
+<h3>2. Percona Monitoring and Management Tool (PMM)</h3>
+<p>PMM is an open-source monitoring toolkit built on the Prometheus ecosystem. It provides <a href="https://www.percona.com/doc/percona-monitoring-and-management/2.x/dashboards/index.html#mysql-dashboards" rel="nofollow">out-of-the-box dashboards</a> to help you understand your MySQL system performance. PMM leverages <a href="https://prometheus.io/" rel="nofollow">Prometheus</a> through the MySQLD Exporter tool (covered later) to extract MySQL metrics. Mysqld_exporter requires access to query your MySQL instances.</p>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-6.png" /></p>
+<p style="text-align: center;"><em>Figure 6: The Percona Monitoring and Management tool (Source: <a href="https://www.percona.com/blog/wp-content/uploads/2018/01/Troubleshooting-Percona-Monitoring-and-Management-Metrics-1.png" rel="nofollow" data-rel="lightbox-image-0" data-rl_title="" data-rl_caption="" title="">Percona.com</a>)</em></p>
+<h4>Monitoring Capabilities</h4>
+<ul>
+<li>Slow queries</li>
+<li>Errors</li>
+<li><a href="https://www.percona.com/doc/percona-monitoring-and-management/2.x/dashboards/dashboard-mysql-replication-summary.html#mysql-replication-delay" rel="nofollow">Replication lag</a></li>
+<li>Max connections</li>
+<li>Disk health (swapping)</li>
+</ul>
+<h4>Pros</h4>
+<ul>
+<li>Easy to use and set up</li>
+<li>Comprehensive help guide</li>
+<li>Out-of-the-box monitoring dashboards (unlike solutions providing only raw metrics or a single pre-made dashboard).</li>
+</ul>
+<h4>Cons</h4>
+<ul>
+<li>Requires running your own infrastructure, resulting in more overhead than SaaS solutions.</li>
+<li>Additional maintenance (people, time, expertise) required also increases costs.</li>
+<li>Alerts are not natively built-in. That requires you to run another Prometheus component called <a href="https://www.percona.com/blog/2020/09/29/using-security-threat-tool-and-alertmanager-in-percona-monitoring-and-management/" rel="nofollow">Alertmanager</a>.</li>
+</ul>
+<h4>Pricing</h4>
+<p>PMM is a free and open-source toolkit. The cost of running the connectors falls on you and your team.</p>
+<hr />
+<h3>3. VividCortex MySQL Analyzer</h3>
+<p>VividCortex is a monitoring SaaS that collects metrics using an agent. The agent, which requires access to MySQL performance statistics tables, ships those metrics directly to VividCortex.</p>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-1.png" /></p>
+<p style="text-align: center;"><em>Figure 7: VividCortex MySQL Analyzer (Source: <a href="https://docs.vividcortex.com/how-to-use-vividcortex/summary/" rel="nofollow">VividCortex)</a></em></p>
+<p>VividCortex guides you on which metrics you should monitor. Like PMM, VividCortex provides out-of-the-box dashboards to identify performance issues with your MySQL deployments. But it takes this a step further by <a href="https://docs.vividcortex.com/general-reference/event-types/" rel="nofollow">emitting “events” around important monitoring states</a>. For example, if you&#8217;re getting closer to the maximum number of allowed MySQL connections, it will <a href="https://docs.vividcortex.com/general-reference/event-types/#approaching-max-mysql-connections" rel="nofollow">emit an event</a>. This approach removes ambiguity around which metrics are important to monitor.</p>
+<h4>Monitoring Capabilities</h4>
+<ul>
+<li>Errors</li>
+<li>Latency</li>
+<li>Slow queries</li>
+<li>Replication health</li>
+<li>Max connections</li>
+<li>Disk health (swapping)</li>
+</ul>
+<h4>Pros</h4>
+<ul>
+<li>Simple agent-based installation eliminates the need for hosting metric infrastructure.</li>
+<li>Easy to set up.</li>
+</ul>
+<h4>Cons</h4>
+<ul>
+<li>No public price listing; must contact a sales agent for a quote.</li>
+<li>Acquired in December 2019 by SolarWinds, which hasn&#8217;t shown much innovation with its previous acquisitions (e.g., Loggly).</li>
+</ul>
+<h4>Pricing</h4>
+<p>The pricing information is not public and is available only upon request.</p>
+<hr />
+<h3>4. MySQL Enterprise Monitor</h3>
+<p>MySQL Enterprise Monitor (MEM) is Oracle&#8217;s officially supported MySQL monitoring tool. Like the other solutions mentioned here, MEM relies heavily on the <a href="https://dev.mysql.com/doc/refman/8.0/en/performance-schema.html">MySQL Performance Schema</a> for retrieving metrics.</p>
+<h4>Monitoring Capabilities</h4>
+<ul>
+<li>Errors</li>
+<li>Latency</li>
+<li>Slow queries</li>
+<li>Replication health</li>
+<li>Max connections</li>
+<li>Disk health (swapping)</li>
+</ul>
+<h4>Pros</h4>
+<ul>
+<li>Allows you to dig in to individual queries.</li>
+</ul>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-7.png" /></p>
+<p style="text-align: center;"><em>Figure 8: MySQL Enterprise Monitor query analysis (Source: MySQL Enterprise Monitor)</em></p>
+<h4>Cons</h4>
+<ul>
+<li>Expensive, despite being the official Oracle monitoring solution.</li>
+<li>Not a managed service.</li>
+<li>Documentation is lacking and not up to date.</li>
+</ul>
+<h4>Pricing</h4>
+<p>At <a href="https://www.mysql.com/products/" rel="nofollow">$5,000 a year per server</a>, MEM is certainly one of the more expensive monitoring tools out there. In addition, it&#8217;s only available through MySQL support subscriptions, and you must purchase full support to access it.</p>
+<hr />
+<h3>5. Datadog MySQL</h3>
+<p>Datadog is a cloud-based monitoring solution that&#8217;s available in several modules, MySQL monitoring being part of their APM service. Their MySQL integration agent polls your MySQL Performance Schema and emits the metrics, which are then generated and displayed in the Datadog dashboards.</p>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-5.jpg" /></p>
+<p style="text-align: center;"><em>Figure 9: Datadog MySQL dashboard (Source: <a href="https://www.datadoghq.com/blog/mysql-monitoring-with-datadog/" rel="nofollow">Datadog)</a></em></p>
+<h4>Monitoring Capabilities</h4>
+<ul>
+<li>MySQL down</li>
+<li>Latency</li>
+<li>Errors</li>
+<li>Replication health</li>
+<li>Max connections</li>
+<li>Disk health (swapping)</li>
+</ul>
+<h4>Pros</h4>
+<ul>
+<li>Hosted SaaS.</li>
+<li>Correlate MySQL performance metrics with other service metrics.</li>
+<li>Alerting capabilities.</li>
+</ul>
+<h4>Cons</h4>
+<ul>
+<li>Limited documentation available.</li>
+<li>Limited number of out-of-the-box MySQL dashboards.</li>
+<li>Mainly end user&#8217;s responsibility to monitor MySQL.</li>
+</ul>
+<h4>Pricing</h4>
+<p>Datadog comes in at $18 per month per MySQL instance.</p>
+<hr />
+<h3>6. Prometheus and MySQLD Exporter</h3>
+<p><a href="https://prometheus.io/" rel="nofollow">Prometheus</a> is an open-source monitoring tool inspired by Google&#8217;s internal monitoring solution. It&#8217;s extremely popular, with over 33,000 stars on GitHub. This database monitor requires running the MySQLD Exporter service, which queries MySQL for performance statistics. It also requires running the Prometheus service as well as a separate visualization tool such as <a href="https://grafana.com/" rel="nofollow">Grafana</a>.</p>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="dozyload"  data-src="https://sematext.com/wp-content/uploads/2020/11/mysql-monitoring-post-image-12.png" /></p>
+<p style="text-align: center;"><em>Figure 10: MySQL Grafana system dashboard (Source: <a href="https://grafana.com/grafana/dashboards/4031" rel="nofollow">MySQL Grafana Dashboard)</a></em></p>
+<h4>Monitoring Capabilities</h4>
+<ul>
+<li>MySQL down</li>
+<li>Latency</li>
+<li>Errors</li>
+<li>Replication health</li>
+<li>Max connections</li>
+<li>Disk health (swapping)</li>
+</ul>
+<h4>Pros</h4>
+<ul>
+<li>Relatively easy to operate.</li>
+<li>Large and active community.</li>
+</ul>
+<h4>Cons</h4>
+<ul>
+<li>Not a managed service.</li>
+<li>Requires running MySQLD Exporter on top of Prometheus.</li>
+<li>User is responsible for running the Prometheus ecosystem alerting solution (<a href="https://prometheus.io/docs/alerting/latest/alertmanager/" rel="nofollow">AlertManager</a>).</li>
+<li>No prepackaged version of these components available.</li>
+</ul>
+<h4>Pricing</h4>
+<p>Both Prometheus and MySQLD Exporter are free and open source. You only need to pay for the resources and people required to run them.</p>
+<h2>How to Choose the Right Monitoring Tool for Your Use Case</h2>
+<p>When choosing a MySQL performance monitoring tool, you should consider:</p>
+<ul>
+<li><strong>Hosting model:</strong> Self-hosted vs. SaaS.<br />
+TIP: While self-hosted may look like the cheaper option, when you take into account the infrastructure and maintenance costs—which are almost always underestimated—SaaS is often less expensive.</li>
+<li><strong>User experience:</strong> Dashboards.<br />
+TIP: Look for solutions that feature out-of-the-box dashboards to save you the time of having to research what metrics to monitor, how to aggregate them, and then create the dashboards yourself.</li>
+<li><strong>Alerting: </strong>Ability to route notifications to chat or incident response service.<br />
+TIP: Look for solutions with built-in and seamlessly integrated alerting to simplify your workflow.</li>
+<li><strong>Pricing:</strong> Cost of the solution and additional tools.<br />
+TIP: When comparing solutions, consider whether you&#8217;ll need to pay to run other tools in parallel, and make sure to take into account infrastructure, people, time, and effort to calculate the TCO (total cost of ownership).</li>
+</ul>
+<p>All of the solutions I&#8217;ve reviewed today should provide you with enough information to determine whether your MySQL database is healthy.</p>
+<p>Learn more about how to choose the best monitoring solution for your use case from our <a href="https://sematext.com/blog/monitoring-alerting/">Complete Guide to Alerting and Monitoring</a>.</p>
+<h2>Conclusion</h2>
+<p>With databases like MySQL at the heart of most applications, ensuring visibility into your MySQL deployment is crucial. A monitoring solution helps by detecting if your MySQL becomes unhealthy, so you don&#8217;t end up finding out from your customers that your database is down.</p>
+<p>All of the above MySQL monitoring tools provide metrics that allow you to understand MySQL clients (how many, how long, results, etc.) and the internal MySQL state (buffers, threads, pages, etc.). But no matter which vendor you choose, going from little or no metrics to using one of these tools is sure to supercharge your MySQL operations.</p>
+<p><strong>Author Bio</strong></p>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="alignleft wp-image-51311 size-thumbnail dozyload" data-src="https://sematext.com/wp-content/uploads/2020/11/Danny-Mican-150x150.jpeg" alt="" width="150" height="150" data-srcset="https://sematext.com/wp-content/uploads/2020/11/Danny-Mican-150x150.jpeg 150w, https://sematext.com/wp-content/uploads/2020/11/Danny-Mican-60x60.jpeg 60w, https://sematext.com/wp-content/uploads/2020/11/Danny-Mican.jpeg 200w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p><strong>Danny Mican</strong></p>
+<p>Danny has been working with relational databases for over 10 years. He currently works for auth0 keeping their data infrastructure working. He regularly does audits of different database systems and monitoring solutions.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-51308" class="share-twitter sd-button share-icon" href="https://sematext.com/blog/mysql-monitoring-tools/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-51308" class="share-facebook sd-button share-icon" href="https://sematext.com/blog/mysql-monitoring-tools/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-51308" class="share-linkedin sd-button share-icon" href="https://sematext.com/blog/mysql-monitoring-tools/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://sematext.com/blog/mysql-monitoring-tools/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sematext.com/blog/mysql-monitoring-tools/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>You might also like</em></h3>
+</div>                    </div>
+
+                                        <div id="twitter-button">
+                        <p class="text-center"><a href="https://twitter.com/sematext" id="continue-conversation-twitter" class="g-btn-primary">Continue the conversation</a></p>
+                    </div>
+                </section>
+
+                <aside>
+                    <div class="aside-blog-content">
+                        <div id="related-content"><!-- ... --></div>
+                        <div class="write-to-us">
+                            <p><strong>Do you have a cool story to share?</strong></p>
+                            <p><a href="/contact/">Write for us</a></p>
+                        </div>
+                    </div>
+                </aside>
+            </main>
+            <footer>
+                <div id="alternative-sharing-block"><!-- ... --></div>
+            </footer>
+        </article>
+
+
+<script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.6/build/highlight.min.js" charset="utf-8"></script>
+<script>
+function _fiColor() {
+
+    function _rgbToHex(rgb) {
+        function cHex(c) {
+            let _hex = c.toString(16);
+            return _hex.length == 1 ? "0" + _hex : _hex;
+        }
+        return "#" + cHex(rgb.r) + cHex(rgb.g) + cHex(rgb.b);
+    }
+
+    let _canvas = document.createElement('canvas');
+    let _context = _canvas.getContext && _canvas.getContext('2d');
+    let _rgb = { r:0, g:0, b:0 };
+
+    let _fi = document.querySelector('#the-featured-image');
+    let _height = _canvas.height = _fi.naturalHeight || _fi.offsetHeight || _fi.height;
+    let _width = _canvas.width = _fi.naturalWidth || _fi.offsetWidth || _fi.width;
+
+    let _xhr = new XMLHttpRequest();
+
+        _xhr.open('GET', _fi.src);
+        // _xhr.open('GET', 'https://cors-anywhere.herokuapp.com/' . _fi.src);
+        _xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+        _xhr.responseType = "blob";
+        _xhr.onload = function() {
+
+            let _urlCreator = window.URL || window.webkitURL;
+            let _imgUrl = _urlCreator.createObjectURL( _xhr.response );
+
+            let _img = new Image();
+                _img.onload = function() {
+
+                    let _sampleSize = 20;
+                    _context.drawImage(_img, 0, 0, _width, _height);
+
+                    let _data = _context.getImageData(0, 0, _sampleSize, _sampleSize);
+                    let _length = _data.data.length;
+                    let _counter = 0;
+                    let _pixelJump = 1;
+                    let _i = -4;
+                    while ( (_i += _pixelJump * 4) < _length ) {
+                        ++_counter;
+                        _rgb.r += _data.data[_i];
+                        _rgb.g += _data.data[_i+1];
+                        _rgb.b += _data.data[_i+2];
+                    }
+
+                    _rgb.r = ~~(_rgb.r/_counter);
+                    _rgb.g = ~~(_rgb.g/_counter);
+                    _rgb.b = ~~(_rgb.b/_counter);
+
+                    document.querySelector('.blog-post-hero-bg').style.background = _rgbToHex(_rgb);
+                    document.querySelector('.blog-post-hero-bg-img').classList.add('fadeout');
+
+                }
+                _img.src = _imgUrl;
+                _img.onerror = function() { console.log("Error loading image"); };
+
+        };
+        _xhr.send();
+}
+
+function _highlighter() {
+
+    var _pre = document.querySelectorAll('pre');
+        _pre = Array.from(_pre);
+        _pre.forEach(function(el) {
+
+            var _current = el.innerHTML;
+            var _code = document.createElement('code');
+                _code.innerHTML = _current;
+
+            el.innerHTML = '';
+            el.appendChild(_code);
+
+            hljs.highlightBlock(_code);
+        });
+}
+
+function _scrollBar() {
+
+    var _scrolled = Math.round((
+        (document.body.scrollTop || document.documentElement.scrollTop) /
+        ((document.documentElement.scrollHeight - document.documentElement.clientHeight) - document.querySelector('.footer-area').offsetHeight)) * 100);
+        _scrolled = Math.min(100, _scrolled)
+
+    document.querySelector('#scroll-status-percent').style.width = _scrolled + '%';
+}
+
+function _realocateElements() {
+
+    document.querySelector('#alternative-sharing-block').innerHTML = document.querySelector('.sharedaddy').innerHTML;
+}
+
+function _getRelatedPosts() {
+
+    var relatedposts_url = window.location.href.split('?')[0] + '?relatedposts=1';
+    relatedposts_url = "https://sematext.com/blog/mysql-monitoring-tools?relatedposts=1";
+    var _xhr = new XMLHttpRequest();
+        _xhr.overrideMimeType("application/json");
+        _xhr.open('GET', relatedposts_url, true);
+        _xhr.setRequestHeader('crossOrigin', 'anonymous');
+        _xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+        _xhr.onload = function() {
+
+            _renderRelatedPosts(_xhr.response);
+        }
+        _xhr.send(null);
+}
+
+function _renderRelatedPosts(jsonData) {
+
+    let data = null;
+        try { data = JSON.parse(jsonData); }
+        catch (e) { data = { "headline" :"", "items" :[] }; }
+
+    let _items = [];
+    for ( let i=0; i<data.items.length; i++ ) {
+
+        let _item = `<div class="related-content-item">`;
+            _item += `<h4><a href="${data.items[i].url}">${data.items[i].title}</a></h4>`;
+            _item += `<figure><a href="${data.items[i].url}"><img src="${data.items[i].img.src}" /></a></figure>`;
+            _item += `<p>${data.items[i].context}</p>`;
+            _item += `</div>`;
+
+        _items.push(_item);
+    }
+
+    let _htmlOutput = `<h3>${data.headline}</h3>`;
+        _htmlOutput += `<div class="related-content-items">`;
+        _htmlOutput += _items.join('');
+        _htmlOutput += `</div>`;
+
+    if (!data.items.length) { _htmlOutput = '' }
+    document.querySelector('#related-content').innerHTML = _htmlOutput;
+}
+
+// ~~ TOC ~~
+function _tocJump(where) {
+
+    var _where = where.split('#')[1];
+    var _target_y = jQuery('#' + _where).offset().top;
+    jQuery('html,body').animate({ scrollTop: _target_y - 130 }, 350);
+    window.location.hash = '#' + _where;
+}
+
+function _toc() {
+
+    function _slugify( str ) {
+        return str.toString().toLowerCase()
+            .replace(/\s+/g, '-')
+            .replace(/[^\w\-]+/g, '')
+            .replace(/\-\-+/g, '-');
+    }
+
+    var _the_content = document.querySelector("article#post-51308 > main > section #the-content");
+    var _toc = '<ul class="toc">';
+    var _hs = [].slice.call( _the_content.querySelectorAll('h2, h3:not([class])') );
+        _hs.forEach(function(el, i) {
+
+            var _class = 'header-' + el.tagName.toLowerCase();
+            var _txt = el.innerText;
+            var _id = 'toc-' + _slugify(_txt) + '-' + i;
+                el.id = _id; // Set anchor
+            if (!!_txt) { // Set menu item
+                _toc += '\n';
+                _toc += '<li class="' + _class + '"><a href="#' + _id + '" title="' + _txt + '" onclick="_tocJump(this.href); return false;">' + _txt + '</a></li>';
+            }
+        });
+
+    // Close TOC
+    _toc += '\n';
+    _toc += '</ul>';
+    _toc = (!_hs.length) ? '' : _toc;
+
+    // Inject TOC
+    var toc_nav = document.querySelector('nav#toc-nav');
+    var is_multipost = !!toc_nav.querySelector('#serial-posts-wrapper')
+    if ( is_multipost ) {
+
+        var _current = toc_nav.querySelector('.current-inactive');
+            _current.innerHTML += _toc
+
+        var _toc_items = toc_nav.querySelectorAll('li.serial-posts-list-item');
+            _toc_items = Array.from(_toc_items);
+            _toc_items.forEach(function(el, i) {
+                el.innerHTML = 'Part '+ (i+1) +': ' + el.innerHTML;
+            });
+
+        var _ultoc_open = true;
+        _current.addEventListener('click', function(e) {
+            if ( _ultoc_open == true ) {
+                this.querySelector('ul.toc').style.display = 'none';
+                _ultoc_open = false;
+            } else {
+                this.querySelector('ul.toc').style.display = 'block';
+                _ultoc_open = true;
+            }
+        });
+        _current.querySelector('ul').addEventListener('click', function(e) {
+            e.stopPropagation();
+        });
+
+    } else {
+
+        var _toc_title = '<h3 class="serial-posts-heading">Table of Contents</h3>';
+        toc_nav.innerHTML += (_toc.length > 0) ? _toc_title : '';
+        toc_nav.innerHTML += _toc;
+    }
+}
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+document.addEventListener("DOMContentLoaded", function() {
+
+    _toc();
+    _highlighter();
+    _getRelatedPosts();
+
+    window.addEventListener('scroll', function() {
+
+        _scrollBar();
+    });
+});
+
+window.addEventListener("load", function() {
+
+    _realocateElements();
+    _fiColor();
+
+})
+</script>
+
+		</div><!-- close .row -->
+	</div><!-- close .container -->
+</div><!-- close .site-content -->
+
+	<div class="footer-area">
+
+		<div class="container footer-inner">
+			<div class="col-md-3 col-sm-6">
+				<h4>Products</h4>
+				<ul>
+					<li><a href="/cloud/" title="Sematext Cloud">Sematext Cloud</a></li>
+					<li><a href="/spm/" title="Infrastructure Monitoring">Infrastructure Monitoring</a></li>
+					<li><a href="/logsene/" title="Log Management">Log Management</a></li>
+					<li><a href="/experience/" title="Real User Monitoring">Real User Monitoring</a></li>
+					<li><a href="/synthetic-monitoring/" title="Synthetic Monitoring">Synthetic Monitoring</a></li>
+					<li><a href="/tracing/" title="Distributed Transaction Tracing">APM / Tracing</a></li>
+					<li><a href="/enterprise/" title="Sematext Enterprise">Sematext Enterprise</a></li>
+				</ul>
+			</div>
+			<div class="col-md-2 col-sm-6">
+				<h4>Services</h4>
+				<ul>
+					<li><a href="/consulting/" title="Consulting">Consulting</a></li>
+					<li><a href="/support/" title="Support">Support</a></li>
+					<li><a href="/training/" title="Training">Training</a></li>
+				</ul>
+			</div>
+			<div class="col-md-2 col-sm-6">
+				<h4>About</h4>
+				<ul>
+					<li><a href="/about/" title="Company">Company</a></li>
+					<li><a href="/blog/" title="Blog">Blog</a></li>
+					<li><a href="/jobs/" title="Jobs">Jobs</a></li>
+					<li><a href="/customers/" title="Customers">Customers</a></li>
+					<li><a href="https://status.sematext.com/" title="Status">Status</a></li>
+				</ul>
+			</div>
+			<div class="col-md-2 col-sm-6">
+				<h4>Contact</h4>
+				<ul>
+					<li><i class="fa fa-phone fa-fw"></i> <a href="tel:+1 347-480-1610">+1 347-480-1610</a></li>
+					<li><i class="fa fa-envelope fa-fw"></i> <a href="mailto:info@sematext.com">info@sematext.com</a></li>
+					<li><i class="fa fa-map-marker fa-fw"></i> <a href="https://www.google.com/maps/place/540+President+St,+Brooklyn,+NY+11215,+EE.+UU./@40.6773068,-73.9875385,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a55722bfff7:0x2143eab42dc5c96d!8m2!3d40.67713!4d-73.984982" target="_blank">Brooklyn, NY USA</a></li>
+					<li class="social-networks">
+						<a href="https://twitter.com/sematext"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						<a href="https://www.facebook.com/Sematext/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+						<a href="https://github.com/sematext"><i class="fa fa-github" aria-hidden="true"></i></a>
+						<a href="https://www.linkedin.com/company/294493/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-md-3 col-sm-12">
+				<p>
+					<strong>&copy; Sematext Group. All rights reserved</strong>
+					<br /><a href="/legal/terms-of-service/">Terms Of Service</a> · <a href="/legal/privacy/">Privacy Policy</a>
+				</p>
+			</div>
+		</div>
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			<div class="container">
+
+				<div class="copyright col-md-12">
+					<p>
+						Apache Lucene, Apache Solr and their respective logos are trademarks of the Apache Software Foundation.
+						Elasticsearch, Kibana, Logstash, and Beats are trademarks of Elasticsearch BV, registered in the U.S.
+						and in other countries. Sematext Group, Inc. is not affiliated with Elasticsearch BV.
+					</p>
+
+									</div>
+
+				
+			</div>
+			<!-- .site-info -->
+
+			
+		</footer>
+		<!-- #colophon -->
+	</div>
+
+</div>
+<!-- #page -->
+
+<template id="resources-most-popular">
+	<div id="resources-most-popular-box">
+		<div class="rsc-mostpopular-head">
+			<h3>Most Popular</h3>
+			<div class="rsc-mostpopular-nav">
+				<a href="#" id="prev">&lsaquo;</a>
+				<a href="#" id="next">&rsaquo;</a>
+			</div>
+		</div>
+		<figure>
+			<img data-baseurl="https://sematext.com/wp-content/themes/sematext-next" alt="img" />
+		</figure>
+		<div class="rsc-mostpopular-footer">
+			<h4></h4>
+			<p><a href="#" id="rsc-download-link">Download Yours</a></p>
+		</div>
+	</div>
+</template>
+
+
+  <script type="text/javascript">
+    jQuery( document ).ready( function( $ ){
+      if ( $( window ).width() >= 767 ){
+        $( '.navbar-nav > li.menu-item > a' ).click( function(){
+          window.location = $( this ).attr( 'href' );
+        });
+      }
+    });
+  </script>
+<script>jQuery(document).ready(function ($) { $('p').selectionSharer();});</script>        <script type="text/javascript">
+            (function(){
+                document.addEventListener('DOMContentLoaded', function(){
+                    let wpp_widgets = document.querySelectorAll('.popular-posts-sr');
+
+                    if ( wpp_widgets ) {
+                        for (let i = 0; i < wpp_widgets.length; i++) {
+                            let wpp_widget = wpp_widgets[i];
+                            WordPressPopularPosts.theme(wpp_widget);
+                        }
+                    }
+                });
+            })();
+        </script>
+                <script>
+            var WPPImageObserver = null;
+
+            function wpp_load_img(img) {
+                if ( ! 'imgSrc' in img.dataset || ! img.dataset.imgSrc )
+                    return;
+
+                img.src = img.dataset.imgSrc;
+
+                if ( 'imgSrcset' in img.dataset ) {
+                    img.srcset = img.dataset.imgSrcset;
+                    img.removeAttribute('data-img-srcset');
+                }
+
+                img.classList.remove('wpp-lazyload');
+                img.removeAttribute('data-img-src');
+                img.classList.add('wpp-lazyloaded');
+            }
+
+            function wpp_observe_imgs(){
+                let wpp_images = document.querySelectorAll('img.wpp-lazyload'),
+                    wpp_widgets = document.querySelectorAll('.popular-posts-sr');
+
+                if ( wpp_images.length || wpp_widgets.length ) {
+                    if ( 'IntersectionObserver' in window ) {
+                        WPPImageObserver = new IntersectionObserver(function(entries, observer) {
+                            entries.forEach(function(entry) {
+                                if (entry.isIntersecting) {
+                                    let img = entry.target;
+                                    wpp_load_img(img);
+                                    WPPImageObserver.unobserve(img);
+                                }
+                            });
+                        });
+
+                        if ( wpp_images.length ) {
+                            wpp_images.forEach(function(image) {
+                                WPPImageObserver.observe(image);
+                            });
+                        }
+
+                        if ( wpp_widgets.length ) {
+                            for (var i = 0; i < wpp_widgets.length; i++) {
+                                let wpp_widget_images = wpp_widgets[i].querySelectorAll('img.wpp-lazyload');
+
+                                if ( ! wpp_widget_images.length && wpp_widgets[i].shadowRoot ) {
+                                    wpp_widget_images = wpp_widgets[i].shadowRoot.querySelectorAll('img.wpp-lazyload');
+                                }
+
+                                if ( wpp_widget_images.length ) {
+                                    wpp_widget_images.forEach(function(image) {
+                                        WPPImageObserver.observe(image);
+                                    });
+                                }
+                            }
+                        }
+                    } /** Fallback for older browsers */
+                    else {
+                        if ( wpp_images.length ) {
+                            for (var i = 0; i < wpp_images.length; i++) {
+                                wpp_load_img(wpp_images[i]);
+                                wpp_images[i].classList.remove('wpp-lazyloaded');
+                            }
+                        }
+
+                        if ( wpp_widgets.length ) {
+                            for (var j = 0; j < wpp_widgets.length; j++) {
+                                let wpp_widget = wpp_widgets[j],
+                                    wpp_widget_images = wpp_widget.querySelectorAll('img.wpp-lazyload');
+
+                                if ( ! wpp_widget_images.length && wpp_widget.shadowRoot ) {
+                                    wpp_widget_images = wpp_widget.shadowRoot.querySelectorAll('img.wpp-lazyload');
+                                }
+
+                                if ( wpp_widget_images.length ) {
+                                    for (var k = 0; k < wpp_widget_images.length; k++) {
+                                        wpp_load_img(wpp_widget_images[k]);
+                                        wpp_widget_images[k].classList.remove('wpp-lazyloaded');
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+                wpp_observe_imgs();
+
+                // When an ajaxified WPP widget loads,
+                // Lazy load its images
+                document.addEventListener('wpp-onload', function(){
+                    wpp_observe_imgs();
+                });
+            });
+        </script>
+        
+<style type="text/css">
+    #wpfront-notification-bar 
+    {
+        background: #6e39ff;
+        background: -moz-linear-gradient(top, #6e39ff 0%, #6e39ff 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6e39ff), color-stop(100%,#6e39ff));
+        background: -webkit-linear-gradient(top, #6e39ff 0%,#6e39ff 100%);
+        background: -o-linear-gradient(top, #6e39ff 0%,#6e39ff 100%);
+        background: -ms-linear-gradient(top, #6e39ff 0%,#6e39ff 100%);
+        background: linear-gradient(to bottom, #6e39ff 0%, #6e39ff 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6e39ff', endColorstr='#6e39ff',GradientType=0 );
+    }
+
+    #wpfront-notification-bar div.wpfront-message
+    {
+        color: #ffffff;
+    }
+
+    #wpfront-notification-bar a.wpfront-button
+    {
+        background: #4524a0;
+        background: -moz-linear-gradient(top, #4524a0 0%, #4524a0 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4524a0), color-stop(100%,#4524a0));
+        background: -webkit-linear-gradient(top, #4524a0 0%,#4524a0 100%);
+        background: -o-linear-gradient(top, #4524a0 0%,#4524a0 100%);
+        background: -ms-linear-gradient(top, #4524a0 0%,#4524a0 100%);
+        background: linear-gradient(to bottom, #4524a0 0%, #4524a0 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4524a0', endColorstr='#4524a0',GradientType=0 );
+
+        color: #ffffff;
+    }
+
+    #wpfront-notification-bar-open-button
+    {
+        background-color: #4524a0;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close 
+    {
+        border: 1px solid #4524a0;
+        background-color: #4524a0;
+        color: #272727;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close:hover 
+    {
+        border: 1px solid #272727;
+        background-color: #272727;
+    }
+</style>
+
+
+<div id="wpfront-notification-bar-spacer"  style="display: none;">
+    <div id="wpfront-notification-bar-open-button" class="top wpfront-bottom-shadow"></div>
+    <div id="wpfront-notification-bar" class="wpfront-fixed ">
+                <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td>
+                    <div class="wpfront-message">
+                        New! Introducing the Sematext Browser SDK. <a href="https://sematext.com/product-updates/#/2020/introducing-the-sematext-browser-sdk">Learn more</a>                    </div>
+                    <div>
+                                            </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+<style type="text/css">
+.navbar-fixed-top { top: 40px; }
+.breadcrumb, .breadcrumb1 { top: 89px; }
+#wpfront-notification-bar table,
+#wpfront-notification-bar tbody,
+#wpfront-notification-bar tr,
+#wpfront-notification-bar td {
+    display: block;
+    width: 100%;
+    padding: 0;
+    vertical-align: middle;
+}
+#wpfront-notification-bar td {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+.wpfront-message {
+    font-size: 15px;
+    font-weight: 400;
+}
+.wpfront-message a {
+    display: inline-block;
+    background: #4524a0;
+    color: #fff;
+    border-radius: 3px;
+    border: none;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 6px 8px;
+    margin: 0 0 0 8px;
+}
+.wpfront-message a:hover { background: #272727; }
+
+@media only screen and (max-width: 600px)  {
+    #wpfront-notification-bar { 
+        max-width: 100%;
+        overflow: hidden;
+        height: auto;
+        min-height: 40px;        
+    }
+    #wpfront-notification-bar td {
+        height: auto;
+        min-height: 40px;
+    justify-content: flex-start;
+    padding: 5px 105px 5px 10px;
+    }
+    .wpfront-message {
+        font-size: 11px;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    }
+    .wpfront-message a {
+        font-size: 11px;
+        padding: 3px 5px;
+        margin: 0 0 0 4px;
+    position: absolute;
+    right: 10px;
+    top: 9px;
+    }
+}
+body.logged-in .navbar-fixed-top { top: 72px; }
+body.logged-in .breadcrumb1 { top: 120px; }
+.affix { top: 40px; }
+body.logged-in .card {
+    margin-top: 190px;
+    margin-bottom: 30px;
+}
+.card {
+    margin-top: 160px;
+    margin-bottom: 30px;
+}</style>
+<script type="text/javascript">if(typeof wpfront_notification_bar == "function") wpfront_notification_bar({"position":1,"height":40,"fixed_position":"on","animate_delay":0,"close_button":false,"button_action_close_bar":false,"auto_close_after":0,"display_after":0,"is_admin_bar_showing":false,"display_open_button":false,"keep_closed":false,"keep_closed_for":0,"position_offset":0,"display_scroll":false,"display_scroll_offset":0});</script>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/sematext.com\/blog\/mysql-monitoring-tools\/":51308};
+	</script>
+					<div id="sharing_email" style="display: none;">
+		<form action="/blog/mysql-monitoring-tools/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="https://sematext.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='https://sematext.com/wp-content/themes/sematext-next/inc/js/custom_script.js?ver=1.1'></script>
+<script type='text/javascript' src='https://sematext.com/wp-includes/js/comment-reply.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://sematext.com/wp-includes/js/wp-embed.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://sematext.com/wp-content/plugins/selection-sharer/js/selection-sharer.js?ver=0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sematext.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=8.5'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-linkedin', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-202048.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.5',blog:'107910772',post:'51308',tz:'-5',srv:'sematext.com'} ]);
+	_stq.push([ 'clickTrackerInit', '107910772', '51308' ]);
+</script>
+
+
+	<!-- LinkedIn Insight Tag -->
+	<script type="text/javascript">
+	    _linkedin_partner_id = "2338377";
+	    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+	    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+
+	    (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})();
+	</script>
+	<noscript><img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2338377&fmt=gif" /></noscript>
+	<!-- End of LinkedIn Insight Tag -->
+
+	<script async defer src="https://sematext.com/wp-content/themes/sematext-theme/inc/js/smtuc.js"></script>
+
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 265/273 objects using disk
+Page Caching using disk: enhanced 
+Minified using disk
+Database Caching 1/7 queries in 0.015 seconds using disk
+
+Served from: sematext.com @ 2020-11-26 10:09:30 by W3 Total Cache
+-->
